@@ -1,0 +1,20 @@
+{
+   "AppSetting":[
+      {
+         "id":"skin.ffemotes.elitepass",
+         "app_version":1,
+         "app_link":"https://play.google.com/store/apps/details?id=skin.ffemotes.elitepass",
+         "ad_type":"AdMOB",
+         "ad_status":"on",
+         "admob_aap_id":"",
+         "admob_openad":"/6499/example/app-open",
+         "admob_inter":"/6499/example/interstitial",
+         "admob_banner":"/6499/example/banner",
+         "admob_native":"/6499/example/native",
+         "admob_native_banner":"/6499/example/native",
+         "qureka_link":"",
+         "admobrewardedads":"/6499/example/rewarded",
+         "isSplash":"false"
+      }
+   ]
+}
